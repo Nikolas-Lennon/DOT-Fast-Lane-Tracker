@@ -1,6 +1,8 @@
 /*
    vtester.cpp
 
+   Nikolas Lennon
+
    Test harness for the vehicle object hierarchy
 
    VehicleType is an enumerated type with values:
